@@ -1,2 +1,1 @@
-# learnReact-gallery
-gallery
+#
